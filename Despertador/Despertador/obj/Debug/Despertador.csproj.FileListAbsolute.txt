@@ -1,0 +1,10 @@
+C:\Users\Sergi\source\repos\Despertador\Despertador\obj\Debug\Despertador.Properties.Resources.resources
+C:\Users\Sergi\source\repos\Despertador\Despertador\obj\Debug\Despertador.csproj.GenerateResource.cache
+C:\Users\Sergi\source\repos\Despertador\Despertador\obj\Debug\Despertador.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\source\repos\Despertador\Despertador\bin\Debug\Despertador.accdb
+C:\Users\Sergi\source\repos\Despertador\Despertador\bin\Debug\Despertador.exe.config
+C:\Users\Sergi\source\repos\Despertador\Despertador\bin\Debug\Despertador.exe
+C:\Users\Sergi\source\repos\Despertador\Despertador\bin\Debug\Despertador.pdb
+C:\Users\Sergi\source\repos\Despertador\Despertador\obj\Debug\Despertador.exe
+C:\Users\Sergi\source\repos\Despertador\Despertador\obj\Debug\Despertador.pdb
+C:\Users\Sergi\source\repos\Despertador\Despertador\obj\Debug\Despertador.Form1.resources
