@@ -1,0 +1,10 @@
+C:\Users\Sergi\source\repos\Litros\Litros\bin\Debug\Litros.exe.config
+C:\Users\Sergi\source\repos\Litros\Litros\bin\Debug\Litros.exe
+C:\Users\Sergi\source\repos\Litros\Litros\bin\Debug\Litros.pdb
+C:\Users\Sergi\source\repos\Litros\Litros\obj\Debug\Litros.csprojAssemblyReference.cache
+C:\Users\Sergi\source\repos\Litros\Litros\obj\Debug\Litros.Form1.resources
+C:\Users\Sergi\source\repos\Litros\Litros\obj\Debug\Litros.Properties.Resources.resources
+C:\Users\Sergi\source\repos\Litros\Litros\obj\Debug\Litros.csproj.GenerateResource.cache
+C:\Users\Sergi\source\repos\Litros\Litros\obj\Debug\Litros.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\source\repos\Litros\Litros\obj\Debug\Litros.exe
+C:\Users\Sergi\source\repos\Litros\Litros\obj\Debug\Litros.pdb
